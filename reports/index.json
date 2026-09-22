@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260921-202544-s4r5",
+      "title": "Bitter Lemon Haem",
+      "commanders": [
+        "Bitter Lemon Haem"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-09-22T01:25:44.000Z",
+      "dateEnd": "2026-09-22T01:58:32.202Z",
+      "dateLabel": "9/21/2026, 8:25:44 PM - 9/21/2026, 8:58:32 PM",
+      "url": "https://LukeUnit01.github.io/wvw/?report=20260921-202544-s4r5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260920-202416-rgy2",
       "title": "Eryn Tyrell",
       "commanders": [
