@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261003-200645-wz0m",
+      "title": "Majestic Dreamspear",
+      "commanders": [
+        "Majestic Dreamspear"
+      ],
+      "guild": {
+        "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+        "name": "Knights Of The Temple",
+        "tag": "KnT"
+      },
+      "dateStart": "2026-10-04T01:06:45.000Z",
+      "dateEnd": "2026-10-04T03:58:55.244Z",
+      "dateLabel": "10/3/2026, 8:06:45 PM - 10/3/2026, 10:58:55 PM",
+      "url": "https://LukeUnit01.github.io/wvw/?report=20261003-200645-wz0m",
+      "summary": {
+        "borderlandsPct": 0.4594594594594595,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 34,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260928-201454-1otv",
       "title": "Crippling Anquish",
       "commanders": [
