@@ -5,9 +5,43 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261012-212427-w6b0",
+      "title": "Crippling Anquish",
+      "commanders": [
+        "Crippling Anquish"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-10-13T02:24:27.000Z",
+      "dateEnd": "2026-10-13T02:55:00.781Z",
+      "dateLabel": "10/12/2026, 9:24:27 PM - 10/12/2026, 9:55:00 PM",
+      "url": "https://LukeUnit01.github.io/wvw/?report=20261012-212427-w6b0",
+      "publishedBy": "LukeUnit01",
+      "summary": {
+        "borderlandsPct": 0.5897435897435898,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20261007-201921-gzmu",
       "title": "Eryn Tyrell",
