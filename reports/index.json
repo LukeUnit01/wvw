@@ -1,13 +1,42 @@
 {
   "colorPalette": "electric-blue",
-  "axiTheme": "glass",
-  "glass": true,
-  "glassSurfaces": true,
+  "axiTheme": "flat",
+  "glass": false,
+  "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
     "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261105-201040-dx4b",
+      "title": "Diamond Recruit",
+      "commanders": [
+        "Diamond Recruit"
+      ],
+      "guild": {
+        "id": "A76AE61D-37C3-F111-BB1F-12683E7B69EB",
+        "name": "Second Wínd",
+        "tag": "SW"
+      },
+      "dateStart": "2026-11-06T02:10:40.000Z",
+      "dateEnd": "2026-11-06T03:08:42.329Z",
+      "dateLabel": "11/5/2026, 8:10:40 PM - 11/5/2026, 9:08:42 PM",
+      "url": "https://LukeUnit01.github.io/wvw/?report=20261105-201040-dx4b",
+      "publishedBy": "LukeUnit01",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
     {
       "id": "20261105-201040-x54b",
       "title": "Diamond Recruit",
