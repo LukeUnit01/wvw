@@ -5,9 +5,39 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261112-201616-59hh",
+      "title": "Furry Ringleader, Silver Veteran",
+      "commanders": [
+        "Furry Ringleader",
+        "Silver Veteran"
+      ],
+      "guild": {
+        "id": "A76AE61D-37C3-F111-BB1F-12683E7B69EB",
+        "name": "Second Wínd",
+        "tag": "SW"
+      },
+      "dateStart": "2026-11-13T02:16:16.000Z",
+      "dateEnd": "2026-11-13T03:00:07.658Z",
+      "dateLabel": "11/12/2026, 8:16:16 PM - 11/12/2026, 9:00:07 PM",
+      "url": "https://LukeUnit01.github.io/wvw/?report=20261112-201616-59hh",
+      "publishedBy": "LukeUnit01",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 17
+      }
+    },
     {
       "id": "20261105-201040-dx4b",
       "title": "Diamond Recruit",
